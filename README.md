@@ -1,8 +1,6 @@
 # hello-world1
-## how big am I?
-### how big am I now?
-I'm *Learning* GitHub, ***yay***
 
+I'm *Learning* GitHub, ***yay***
 
 1. I like learning
 2. Not learning steps
@@ -10,4 +8,5 @@ I'm *Learning* GitHub, ***yay***
 
 * un-numbered list
 * lots to learn
-* 
+
+[how to make a links](library.ualberta.ca)
