@@ -10,4 +10,7 @@ I'm *Learning* GitHub, ***yay***
 
 * un-numbered list
 * lots to learn
-* 
+
+
+[Library link] (library.ualberta.ca)
+
